@@ -25,7 +25,7 @@ I love coding. :heart:
 I love Back End technologys. :heart:
   
   ## Analysis :point_down:
-  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cai2w&layout=compact)](https://github.com/Cai2w/github-readme-stats)
+  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cai2w&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-![Cai2w GitHub stats](https://github-readme-stats.vercel.app/api?username=Cai2w&show_icons=true)
+[![Cai2w GitHub stats](https://github-readme-stats.vercel.app/api?username=Cai2w&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
